@@ -1,0 +1,13 @@
+git config user.name "your-git-user-name"{
+	"folders": [
+		{
+			"name": "lab2-gpio_library",
+			"path": "digital-electronics2\\lab2-gpio_library"
+		},
+		{
+			"name": "lab-03-interrupts",
+			"path": "digital-electronics2\\lab-03-interrupts"
+		}
+	],
+	"settings": {}
+}
