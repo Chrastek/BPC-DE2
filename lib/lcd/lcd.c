@@ -93,7 +93,7 @@ static void toggle_e(void);
 
 
 /*************************************************************************
-*  delay for a minimum of <us> microseconds
+*  delay for a minimum of <us> microseconds 
 *  the number of loops is calculated at compile-time from MCU clock frequency
 *************************************************************************/
 #define delay(us) _delay_us(us)
