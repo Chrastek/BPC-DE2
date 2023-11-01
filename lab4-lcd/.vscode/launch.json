@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/KoubiK/DE2/.pio/build/uno/firmware.elf",
+            "executable": "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab4-lcd/.pio/build/uno/firmware.elf",
             "projectEnvName": "uno",
-            "toolchainBinDir": "C:/Users/KoubiK/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/240235/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,18 +25,18 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/KoubiK/DE2/.pio/build/uno/firmware.elf",
+            "executable": "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab4-lcd/.pio/build/uno/firmware.elf",
             "projectEnvName": "uno",
-            "toolchainBinDir": "C:/Users/KoubiK/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/240235/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "c:/Users/KoubiK/DE2/.pio/build/uno/firmware.elf",
+            "executable": "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab4-lcd/.pio/build/uno/firmware.elf",
             "projectEnvName": "uno",
-            "toolchainBinDir": "C:/Users/KoubiK/.platformio/packages/toolchain-atmelavr/bin",
+            "toolchainBinDir": "C:/Users/240235/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
