@@ -10,9 +10,9 @@
             "includePath": [
                 "p:/DE2/lab7-asm/include",
                 "p:/DE2/lab7-asm/src",
+                "p:/DE2/lab7-asm/lib/uart",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/variants/standard",
-                "p:/DE2/lab7-asm/lib/uart",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -25,9 +25,9 @@
                 "path": [
                     "p:/DE2/lab7-asm/include",
                     "p:/DE2/lab7-asm/src",
+                    "p:/DE2/lab7-asm/lib/uart",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/variants/standard",
-                    "p:/DE2/lab7-asm/lib/uart",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
