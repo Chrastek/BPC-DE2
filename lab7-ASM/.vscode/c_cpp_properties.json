@@ -8,10 +8,11 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab7-ASM/include",
-                "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab7-ASM/src",
+                "p:/DE2/lab7-asm/include",
+                "p:/DE2/lab7-asm/src",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/variants/standard",
+                "p:/DE2/lab7-asm/lib/uart",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -22,10 +23,11 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab7-ASM/include",
-                    "//dest.feec.vutbr.cz/home/stud/240235/DE2/lab7-ASM/src",
+                    "p:/DE2/lab7-asm/include",
+                    "p:/DE2/lab7-asm/src",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "p:/DE2/lab7-asm/lib/uart",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/240235/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
